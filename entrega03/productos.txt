@@ -1,0 +1,1 @@
+[{"title":"remera","price":13,"thumbnail":"123456","productId":1},{"title":"remera2","price":15,"thumbnail":"12344563","productId":2},{"title":"remera3","price":15,"thumbnail":"12344563","productId":3},{"title":"remera4","price":15,"thumbnail":"12344563","productId":4},{"title":"remera8","price":15,"thumbnail":"12344563","productId":5}]
